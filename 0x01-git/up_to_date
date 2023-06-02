@@ -1,6 +1,4 @@
-touch up_to_date
-vi up_to_date
-#insert content
-git add up_to_date
+echo "hello" > README.md
+git add .
 git commi -m "How to be up to date in git"
 git push
