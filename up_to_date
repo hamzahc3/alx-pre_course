@@ -1,4 +1,0 @@
-echo "kfuhs" > README.md
-git add . 
-git commit -m "updateREADME"
-git push
